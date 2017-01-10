@@ -1,7 +1,7 @@
 # Jarkom
 
 Project akhir semester Jarkom,
-cara kerja:
+cara kerja:\n
 1. Arduino ambil data sensor suhu dan kelembapan
 2. Data dikirm via serial
 3. Arduino menunggu data dari thingspeak
